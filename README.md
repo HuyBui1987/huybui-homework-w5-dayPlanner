@@ -31,7 +31,7 @@ A simple day planner to help user create a prompt schedule to see the activities
 
 3. When the user finish put the activities for each row, they can click the button on the end of the right to save it and move to the next hour row.
 
-4. The realtime wil help user see the deadline for each hour row by changing the color of each row: Green color is still having time, yellow is on deadline, red is nearly over the time and grey color that means the time hasn't come yet or it was passed.
+4. The realtime wil help user see the deadline for each hour row by changing the color of each row: Green color is still having time, red is nearly over the time and grey color that means the time hasn't come yet or it was passed.
 
 5. User can view previous all of the activities on the screen because all of the data has been saved on client local storage.
 
